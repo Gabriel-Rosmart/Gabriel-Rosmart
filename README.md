@@ -1,3 +1,7 @@
+<img alt="Github Header" src="./assets/github-header-image.png">
+
+<br />
+
 # 💫 About Me:
 🔭 I’m currently working on a **Employee Management System**<br>🌱 I’m currently learning **Full Stack Web Dev**<br>💬 Ask me about anything related to **Tech or Music**
 
