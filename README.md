@@ -25,9 +25,9 @@
 <img align="left" alt="MySQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Rust" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 <br />
+<br />
 
-# 📊 GitHub Stats:
+# 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Gabriel-Rosmart&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Rosmart&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rosmart&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
